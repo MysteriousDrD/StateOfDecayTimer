@@ -6,3 +6,12 @@ C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeC
 C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.pdb
 C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.exe
 C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.pdb
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.exe.config
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.exe
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.pdb
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.exe
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.pdb
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.Form1.resources
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.Properties.Resources.resources
+C:\Users\Dave\Documents\GitHub\StateOfDecayTimer\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.csproj.GenerateResource.Cache

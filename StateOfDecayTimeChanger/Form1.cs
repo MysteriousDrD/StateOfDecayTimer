@@ -68,6 +68,7 @@ namespace StateOfDecayTimeChanger
 
             // Set the system clock ahead one hour.
             systime.wHour = (short)((systime.wHour + restore) % 24);
+            restore = 0;
             SetSystemTime(ref systime);
             MessageBox.Show("New time: " + systime.wHour.ToString() + ":"
                 + systime.wMinute.ToString());
