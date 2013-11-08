@@ -1,0 +1,8 @@
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.exe.config
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.Form1.resources
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.Properties.Resources.resources
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.exe
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\bin\Debug\StateOfDecayTimeChanger.pdb
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.exe
+C:\Users\Dave\Documents\Coding\C#\Misc\StateOfDecayTimeChanger\StateOfDecayTimeChanger\obj\Debug\StateOfDecayTimeChanger.pdb
